@@ -73,7 +73,7 @@ POST /api/contacts
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOURUSERNAME/AddressBookAPI.git
+git clone https://github.com/alihaktan35/AddressBookAPI.git
 cd AddressBookAPI
 ```
 

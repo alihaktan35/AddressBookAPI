@@ -60,8 +60,10 @@ POST /api/contacts
 ```
 
 ## 🌐 Live Demo
-🔗 **API URL:** [Will be added after deployment]
-📚 **Swagger Documentation:** [Will be added after deployment]
+🔗 **API URL:** https://addressbook-ahs.azurewebsites.net  
+📚 **Swagger Documentation:** https://addressbook-ahs.azurewebsites.net/swagger/index.html
+
+> The API is live on Azure App Service. You can test all endpoints and review the API documentation via the Swagger UI.
 
 ## 💻 Local Development
 

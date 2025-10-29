@@ -153,7 +153,7 @@ Swagger creates automatic documentation and provides a testing interface for the
 - Issue: The main URL showed a 404 error
 - Solution: We set Swagger as the default page and fixed the endpoint settings
 
-## What We Learned
+## What I Learned
 
 - How to design REST APIs
 - How to use .NET Web API
@@ -165,12 +165,6 @@ Swagger creates automatic documentation and provides a testing interface for the
 ## License
 
 This project is for educational purposes only (SE4458 Course Assignment).
-
-## Thanks To
-
-- Our course instructor
-- Microsoft ASP.NET Core documentation
-- Swagger/OpenAPI documentation
 
 ---
 

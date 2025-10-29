@@ -174,5 +174,6 @@ This project is for educational purposes only (SE4458 Course Assignment).
 
 ---
 
-**Made by students at Yaşar University**  
-**October 2025**
+**Course:** SE4458 - Software Engineering  
+**Institution:** Yaşar University  
+**Date:** October 2025
